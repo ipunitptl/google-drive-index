@@ -20,10 +20,10 @@ const LOG_PREFIX = 'LOG:';
 const ADMIN_KEY = 'ADMIN_USERS';
 
 const authConfig = {
-    "siteName": "SS Bots", // Your Website name
-    "client_id": "", // Your Client id from Google Cloud Console
-    "client_secret": "", // Your Client Secret from Google Cloud Console
-    "refresh_token": "", // Your Authorize token - Get from OAuth Playground
+    "siteName": "Lieech Bot", // Your Website name
+    "client_id": "361211046833-qudqhhfhes3qpoodg5uqukvsl0tl4i7q.apps.googleusercontent.com", // Your Client id from Google Cloud Console
+    "client_secret": "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", // Your Client Secret from Google Cloud Console
+    "refresh_token": "1//0gDCZ8Hm7EL4-CgYIARAAGBASNwF-L9Ir2_Fpmglb6WeEJFUjDGdTCWr1GVBUr5LvOy36hJz1s0fmy75-5SNuoy9Fv0JphQxALnI", // Your Authorize token - Get from OAuth Playground
     "service_account": false, // true if you're using Service Account instead of user account
     "service_account_json": randomserviceaccount, // don't touch this one
     "files_list_page_size": 100,
@@ -62,8 +62,8 @@ const authConfig = {
     ],
     "roots": [
         {
-            "id": "8iugu89y09oioi6676", // Get from Google Drive folder URL
-            "name": "SSBot",
+            "id": "13I03lqS-Emm8I0XzcsAwHouzJJaP1xHm", // Get from Google Drive folder URL
+            "name": "Lieech Bot",
             "username": "", "password": "", // Optional folder-level auth
             "protect_file_link": false
         },
